@@ -1,4 +1,4 @@
-# SQL Project 1: Ecommerce 
+# SQL Project: Ecommerce 
 
 ## 1. Context
 I query on the BigQuery environment and the dataset is based on the Google Analytics dataset.
