@@ -1,15 +1,12 @@
 # SQL Project: Ecommerce 
 
-## 1. Context
-I query on the BigQuery environment and the dataset is based on the Google Analytics dataset.
+## 1. Situation
+An e-commerce business wanted to optimize its marketing strategies, improve conversion rates, and enhance user experience. To achieve this, understanding customer behavior, traffic sources, and purchasing patterns was essential.
 
-![image](https://github.com/user-attachments/assets/1cac11c2-fd6f-4f23-b1bb-110c32df219c)
+## 2. Task
+Using SQL in Google BigQuery, I conducted a comprehensive analysis of website traffic, user engagement, and product performance to uncover insights that drive revenue growth and customer retention.
 
-![image](https://github.com/user-attachments/assets/f7d02578-b2ab-4625-b942-5d92c70bff51)
-
-![image](https://github.com/user-attachments/assets/8759694e-a9ef-4a47-ad13-47258884dd91)
-
-## 2. Question and output
+## 3. Action
 <details><summary><strong>Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)</strong></summary>
 <br>
   
