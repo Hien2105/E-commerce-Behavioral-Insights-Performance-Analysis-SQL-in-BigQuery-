@@ -6,7 +6,6 @@ An e-commerce business wanted to optimize its marketing strategies, improve conv
 ## 2. Task
 Using SQL in Google BigQuery, I conducted a comprehensive analysis of website traffic, user engagement, and product performance to uncover insights that drive revenue growth and customer retention.
 
-### 2.1 Dataset
 Dataset: Google Analytics Public Dataset
 
 ![](https://github.com/Hien2105/photo/blob/main/Sql%202.png?raw=true)
