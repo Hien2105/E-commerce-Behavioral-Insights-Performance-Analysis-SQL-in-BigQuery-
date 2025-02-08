@@ -1,10 +1,13 @@
-# SQL Project: Ecommerce 
+# SQL Project: E-commerce Behavioral Insights & Performance Analysis with SQL in BigQuery
 
 ## 1. Situation
 An e-commerce business wanted to optimize its marketing strategies, improve conversion rates, and enhance user experience. To achieve this, understanding customer behavior, traffic sources, and purchasing patterns was essential.
 
 ## 2. Task
 Using SQL in Google BigQuery, I conducted a comprehensive analysis of website traffic, user engagement, and product performance to uncover insights that drive revenue growth and customer retention.
+
+### 2.1 Tables Description
+![](images_dir/C:\Users\ADMIN\Desktop\hinh github\Sql 1.jpg)
 
 ## 3. Action
 <details><summary><strong>Query 01: calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)</strong></summary>
