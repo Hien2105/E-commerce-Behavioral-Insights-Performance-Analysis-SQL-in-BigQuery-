@@ -16,7 +16,10 @@ Dataset dictionary:
 ![](https://github.com/Hien2105/photo/blob/main/Sql%201.png?raw=true)
 
 ## 3. Action
-## Action Breakdown
+### Action Breakdown
+As part of this project, I analyzed user behavior, marketing performance, and purchase trends using SQL in BigQuery. My goal was to uncover key traffic patterns, evaluate engagement metrics, and identify the factors driving conversions. By breaking down data across traffic sources, user interactions, and transaction behavior, I extracted actionable insights to enhance customer experience and optimize revenue.  
+
+The table below outlines the key actions I took in this analysis:  
 
 | #  | Category                                | Description  |
 |----|-----------------------------------------|-------------|
@@ -361,6 +364,39 @@ Query Result:
 
 
 </details>
+
+ 
+
+## 4. Result (Key Insights & recommendations)
+### Key Insights
+
+| #  | Category                          | Insight Summary |
+|----|----------------------------------|------------------------------------------------------|
+| 1  | Traffic & Engagement Analysis    | Visits were stable in Q1 2017, while transactions rose, improving the conversion rate from 1.10% to 1.42%. |
+| 2  | Marketing Effectiveness          | Google had high visits but a 51.56% bounce rate, while YouTube had the worst engagement (66.73% bounce rate). Reddit had the lowest (28.57%), showing better content relevance. |
+| 3  | Revenue Breakdown                | In June 2017, direct traffic drove the most revenue ($97K), far exceeding Google ($18K). Weekly trends showed direct traffic consistently outperforming Google. |
+| 4  | User Behavior Comparison         | Purchasers viewed fewer pages (94–124) than non-purchasers (317–334), suggesting difficulties in product discovery or decision-making. |
+| 5  | Customer Loyalty & Spending      | In July 2017, users averaged 4.16 transactions and spent $43.86 per visit, indicating strong engagement. |
+| 6  | Product Affinity & Cross-Selling | Google Sunglasses (20 units) led sales, followed by apparel, showing demand for branded accessories. |
+| 7  | Conversion Funnel Optimization   | Add-to-cart (28.47% → 37.29%) and purchase rates (8.31% → 12.64%) steadily improved in Q1 2017, signaling better conversion efficiency. |
+
+
+---
+
+### Recommendations
+
+| #  | Category | Recommended Actions |
+|----|--------------------------|----------------------------------------------------------------|
+| 1  | Traffic Optimization | Enhance Google ad targeting to increase revenue share from search traffic. |
+| 2  | Landing Page & CRO | Improve landing pages for YouTube-driven traffic to reduce bounce rates. |
+| 3  | User Experience (UX) Enhancement | Simplify navigation & optimize checkout to help non-buyers (316+ pageviews) convert faster. |
+| 4  | Conversion Funnel Refinement | Address drop-offs in the buying journey, possibly by optimizing the cart and checkout flow. |
+
+
+
+
+
+
 
 
 
