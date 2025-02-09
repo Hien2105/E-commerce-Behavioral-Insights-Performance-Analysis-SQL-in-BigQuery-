@@ -1,4 +1,4 @@
-# [SQL] E-commerce Behavioral Insights & Performance Analysis  (SQL in BigQuery)
+# E-commerce Behavioral Insights & Performance Analysis  (SQL in BigQuery)
 
 ## 1. Situation
 An e-commerce business wanted to optimize its marketing strategies, improve conversion rates, and enhance user experience. To achieve this, understanding customer behavior, traffic sources, and purchasing patterns was essential.
