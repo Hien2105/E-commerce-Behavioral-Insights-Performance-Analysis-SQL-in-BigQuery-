@@ -368,7 +368,7 @@ Query Result:
 
  
 
-## 4. Result (Key Insights & recommendations)
+## 4. Result (Key Insights & Recommendations)
 ### Key Insights
 
 | #  | Category                          | Insight Summary |
