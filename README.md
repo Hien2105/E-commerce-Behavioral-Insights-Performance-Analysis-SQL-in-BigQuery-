@@ -15,7 +15,7 @@ Dataset dictionary:
 ![](https://github.com/Hien2105/photo/blob/main/Sql%201.png?raw=true)
 
 ## 3. Action
-### Action Breakdown
+### 3.1 Action Breakdown
 As part of this project, I analyzed user behavior, marketing performance, and purchase trends using SQL in BigQuery. My goal was to uncover key traffic patterns, evaluate engagement metrics, and identify the factors driving conversions. By breaking down data across traffic sources, user interactions, and transaction behavior, I extracted actionable insights to enhance customer experience and optimize revenue.  
 
 The table below outlines the key actions I took in this analysis:  
@@ -29,6 +29,8 @@ The table below outlines the key actions I took in this analysis:
 | 5  | **Customer Loyalty & Spending Patterns** | Measured transaction frequency per user and average spending per session in July 2017 to gauge purchase consistency and spending habits. |
 | 6  | **Product Affinity & Cross-Selling**    | Identified frequently co-purchased products with YouTube Men's Vintage Henley to uncover bundling and recommendation opportunities. |
 | 7  | **Conversion Funnel Optimization**      | Built a cohort analysis to track product view-to-purchase conversion rates in Q1 2017, revealing key drop-off points in the buying journey. |
+
+### 3.2 SQL Queries
 
 <details><summary><strong>1. Traffic & Engagement Analysis</strong></summary>
 <br>
